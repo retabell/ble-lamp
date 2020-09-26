@@ -1,0 +1,8 @@
+Simple Gambas Application to control eurodomest blebulb 
+written by retabell@gmx.de in 2018 
+more info at
+
+
+
+
+You have to set your MAC-Address of your device.
